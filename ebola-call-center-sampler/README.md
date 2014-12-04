@@ -1,4 +1,4 @@
-appengine-skeleton
+Ebola Call Center Sampler
 =============================
 
-This is a generated application from the appengine-skeleton archetype.
+This is a demo for a call center in sierra leone, it show how to work with cloud and java tecnology this problem.
