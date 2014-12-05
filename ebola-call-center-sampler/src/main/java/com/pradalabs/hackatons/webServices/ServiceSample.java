@@ -16,9 +16,6 @@ public class ServiceSample {
 		@Consumes(MediaType.APPLICATION_JSON)
 		@Produces(MediaType.APPLICATION_JSON)
 		public String consumeJSON( String student ) {
-
-			String output = student.toString();
-
 			return student;
 		}
 
