@@ -1,6 +1,7 @@
 package com.pradalabs.hackatons.model.seguridad;
 
-import org.codehaus.jackson.annotate.JsonPropertyOrder;
+import com.google.appengine.repackaged.org.codehaus.jackson.annotate.JsonPropertyOrder;
+
 
 
 

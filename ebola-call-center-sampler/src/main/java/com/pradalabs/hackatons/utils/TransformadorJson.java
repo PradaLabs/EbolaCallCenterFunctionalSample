@@ -5,9 +5,10 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.TimeZone;
 
-import org.codehaus.jackson.JsonParseException;
-import org.codehaus.jackson.map.JsonMappingException;
-import org.codehaus.jackson.map.ObjectMapper;
+import com.google.appengine.repackaged.org.codehaus.jackson.JsonParseException;
+import com.google.appengine.repackaged.org.codehaus.jackson.map.JsonMappingException;
+import com.google.appengine.repackaged.org.codehaus.jackson.map.ObjectMapper;
+
 
 
 

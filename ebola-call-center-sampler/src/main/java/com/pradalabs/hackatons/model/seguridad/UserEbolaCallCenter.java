@@ -1,11 +1,11 @@
 package com.pradalabs.hackatons.model.seguridad;
 
 import java.io.Serializable;
-import java.util.Collection;
 import java.util.EnumSet;
 import java.util.Set;
 
-import org.codehaus.jackson.annotate.JsonIgnore;
+import com.google.appengine.repackaged.org.codehaus.jackson.annotate.JsonIgnore;
+
 
 
 
